@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# PyInstaller builds and dist
+build/
+dist/
+*.spec
+
+# Inno Setup output
+installer_dist/
+test_install_dir/
+
+# Local configuration files
+config.json
+
+# IDE settings
+.vscode/

@@ -1,0 +1,1 @@
+# SnapRenamr test package
